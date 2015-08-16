@@ -1,3 +1,3 @@
 JMeter docker image based on Alpine Linux
 ===========================================
-Only 202 MB image
+Only 220 MB image
